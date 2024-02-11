@@ -1,7 +1,7 @@
 
 console.log("working");
 
-const api_id = 'fca_live_eocg4pUSIkGJM1Rc7fBXjR3gHQtQIdk5yrblScpq';
+const api_id = 'your_api_id';
 
 
 // fetch(`https://api.freecurrencyapi.com/v1/latest?apikey=${api_id}`)
